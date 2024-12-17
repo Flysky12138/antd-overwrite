@@ -47,3 +47,7 @@ new Vue({
 - `a-select`
 
   根据 `a-form-model-item` 的 `label` 值，添加 `placeholder` 默认值 `请选择${label}`
+
+- `a-tree-select`
+
+  根据 `a-form-model-item` 的 `label` 值，添加 `placeholder` 默认值 `请选择${label}`
